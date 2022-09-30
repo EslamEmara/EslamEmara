@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eslam</h1>
 <h3 align="center">An embedded software engineer @crocomarine</h3>
 
-- 🔭 I’m currently working on **Smart glasses project**
-
-- 🌱 I’m currently learning **Deep learning**
+- 🔭 I’m currently working on **Smart glasses project for the blind**
 
 - 💬 Ask me about **C/C++ , embedded systems**
 
