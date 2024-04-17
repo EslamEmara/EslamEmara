@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eslam</h1>
-<h3 align="center">An embedded software engineer @crocomarine</h3>
+<h3 align="center">An embedded software engineer @Upwork</h3>
 
 - 🔭 I’m currently working on **Implementing EDF scheduler on FreeRTOS**
 
